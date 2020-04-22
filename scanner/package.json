@@ -1,0 +1,18 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluetooth-hci-socket": "^0.5.1",
+    "nobel": "^0.3.0",
+    "noble": "git+https://github.com/jacobrosenthal/noble.git#highsierra",
+    "node-beacon-scanner": "^0.2.2"
+  }
+}
