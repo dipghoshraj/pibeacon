@@ -28,5 +28,5 @@ To run scanner go to scanner folder
 ```bash 
 node app.js
 ```
-
+# In case of error you can reach me through mail : dipghoshraj@gmail.com
 
