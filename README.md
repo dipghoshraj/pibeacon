@@ -28,5 +28,6 @@ To run scanner go to scanner folder
 ```bash 
 node app.js
 ```
-## In case of error you can reach me through mail : dipghoshraj@gmail.com
+## In case of error you can reach me through mail : dipghoshraj@gmail.com 
+## Or create a issue on this project
 
